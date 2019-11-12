@@ -12,7 +12,7 @@ int main()
             
     for(j=0;j<=4;j++)
     {
-       // maxcc=num[0];
+       maxcc=num[0];
          if(num[j]>maxc)
             maxc=num[j];
         else
